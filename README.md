@@ -2,7 +2,7 @@
 
 - 🔭 Estou em busca da minha primeira experiencia profissional.
 - 🌱 Estudando Java orientado a objeto.
-- 📫 Entre em contato através do email: contatolucasalvesruyz@gmail.com
+- 📫 Entre em contato através do email: contatolucasalvesruyz@gmail.com ou meu Celular pessoal 📞 (14)99662-1082.
 - 😄 Ele/Dele
 <div style="display: inline_block"><br>
  <img align="center" alt="nodejs icone" height="30" widht="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
