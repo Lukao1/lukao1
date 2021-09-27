@@ -1,7 +1,7 @@
 ### Ola 👋
 
 - 🔭 Estou em busca da minha primeira experiencia profissional.
-- 🌱 Estudando Java orientado a objeto e jira.
+- 🌱 Estudando Java e Spring.
 - 📫 Entre em contato através do email: contatolucasalvesruyz@gmail.com ou meu Celular pessoal 📞 (14)99662-1082.
 - 😄 Ele/Dele
 <div style="display: inline_block"><br>
