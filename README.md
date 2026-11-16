@@ -1,8 +1,7 @@
 ### Ola 👋
 
 - 🔭 Atualmente estou atuando como desenvolvedor na empresa INDRA.
-- 🌱 Estudando groovy e jira.
-- 📫 Entre em contato através do email: contatolucasalvesruyz@gmail.com 
+- 🌱 Estudando JAVA 25 e Inteligencia Artificial.
 <div style="display: inline_block"><br>
  <img align="center" alt="nodejs icone" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  
